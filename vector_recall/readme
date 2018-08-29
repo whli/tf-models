@@ -1,0 +1,7 @@
+
+module split:
+1. data extract
+2. tranformation to libsvm
+3. to tfrecord
+4. model train
+5. online servering
